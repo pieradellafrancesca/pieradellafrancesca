@@ -1,5 +1,6 @@
 <h2 align="center">Hi there 👋</h2>
 
+<h3 align="center">Where to find me</h3>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/francesca-pierini/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -9,7 +10,7 @@
   </a>
 </div>
 
-<h3 align="center">languages and tools:</h3>
+<h3 align="center">Languages and tools</h3>
 <p align="center">
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
