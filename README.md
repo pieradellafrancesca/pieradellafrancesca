@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2 align="center">Hi there 👋</h2>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/francesca-pierini/">
