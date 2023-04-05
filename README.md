@@ -1,6 +1,4 @@
-<h2 >Hi there! 👋</h2>
-
-<p>Welcome to my page!</p>
+<h1 >Hi there! 👋</h1>
 
 <h3 >Where to find me</h3>
 <div id="badges">
