@@ -1,5 +1,7 @@
 <h1 >Hi there! 👋</h1>
 
+---
+
 <h3 >Where to find me:</h3>
 <div id="badges">
   <a href="https://www.linkedin.com/in/francesca-pierini/">
@@ -9,6 +11,8 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+---
 
 ### :hammer_and_wrench: Languages and Tools:
 
@@ -23,6 +27,8 @@
  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp; -->
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp; -->
 </div>
+
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pieradellafrancesca&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!-- <p >
