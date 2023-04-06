@@ -2,7 +2,7 @@
 
 ---
 
-### :mailbox:How to reach me :
+### :mailbox: How to reach me :
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/francesca-pierini/">
